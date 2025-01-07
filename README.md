@@ -1,6 +1,6 @@
-# Nathan Grilliot
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=30&letterSpacing=tiny&duration=2000&pause=10000&color=FFFFFF&center=false&vCenter=true&width=435&lines=Hi,+I'm+Nathan+Grilliot)](https://git.io/typing-svg)
 
-👋 Hi, I'm Nathan, a Computer Science student at the University of Cincinnati with a minor in Software Engineering. My GitHub showcases my passion for software development, data visualization, and web application design.
+Computer Science student at the University of Cincinnati with a minor in Software Engineering
 
 ## 🛠 Skills & Technologies
 - **Languages**: Python, SQL, C++, HTML, CSS, JavaScript, R

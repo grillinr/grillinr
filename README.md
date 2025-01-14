@@ -8,6 +8,8 @@ Computer Science student at the University of Cincinnati with a minor in Softwar
 - **Database Management**: SQL, Flask-SQLAlchemy, SQLite
 
 ## 📂 Projects
+- **DevBits**: Create an X and LinkedIn crossover for posting real content about your projects, semi-formally.
+- **Resume2Web**: Resume2Web is a web application using Flask and React as infrastructure that extracts key information from a resume file (in formats like PDF or text) and automatically generates an interactive, customizable website showcasing the parsed data.
 - **Manage Me**: A task management web app built with Python, HTML, CSS, and JavaScript, designed to boost productivity, created during Revolution UC Hackathon.
 - **Poli-Search**: A collaborative web app for political candidate research, developed at Make UC Hackathon using Python, HTML, and CSS.
 

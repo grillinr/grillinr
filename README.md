@@ -17,4 +17,8 @@ Computer Science student at the University of Cincinnati with a minor in Softwar
 - **Medpace**: Developed interactive data visualizations and dashboards for clinical trials, collaborating with global teams.
 - **ElectraMet**: Built an internal product configuration tool, deploying updates with Docker and AWS EC2, and analyzing customer data with Pandas and SciKit Learn.
 
+## GitHub Contributions
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grillinr&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true" alt="Top Languages" style="width: 50%; margin-right: 7.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=grillinr&show_icons=true&hide=stars&count_private=true&hide_rank=true&theme=dark&hide_border=true" alt="Nathan's GitHub Stats" style="width: 50%; margin-left: 7.5%;">
+
 📫 Let’s connect! [LinkedIn](www.linkedin.com/in/nathan-grilliot)

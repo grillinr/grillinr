@@ -14,7 +14,7 @@ Computer Science student at the University of Cincinnati
 - **Resume2Web**: Resume2Web is a web application using Flask and React as infrastructure that extracts key information from a resume file (in formats like PDF or text) and automatically generates an interactive, customizable website showcasing the parsed data.
 
 ## 💼 Experience
-- **Medpace**: Developed interactive data visualizations and dashboards for clinical trials, collaborating with global teams.
+- **Medpace**: Maintain complex web applications to manage quotes, proposals, and costs for internal business teams. 
 - **ElectraMet**: Built an internal product configuration tool, deploying updates with Docker and AWS EC2, and analyzing customer data with Pandas and SciKit Learn.
 
 ## GitHub Contributions
